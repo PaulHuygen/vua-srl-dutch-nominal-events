@@ -1,5 +1,5 @@
 #!/bin/bash
-modname=ixa-pipe-tok
+modname=vua-srl-dutch-nominal-events
 #
 # Find the path to this module
 #
